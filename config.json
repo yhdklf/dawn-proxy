@@ -1,0 +1,23 @@
+{
+  "telegram_bot_token": "you token bot",
+  "telegram_chat_id": "you id bot",
+  "http_proxies": [
+      "http://user:pw@ip:port",
+      "http://user:pw@ip:port",
+      "http://user:pw@ip:port"
+  ],
+  "accounts": [
+    {
+    "email": "@gmail.com",
+    "token": "token1"
+    },
+    {
+      "email": "martinlalo102@gmail.com",
+      "token": "token2"
+    },
+    {
+      "email": "sigit190823@gmail.com",
+      "token": "token3"
+    }
+  ]
+}
